@@ -1,1 +1,2 @@
-# go-examples
+# go-examples.
+Collection of golang programs
